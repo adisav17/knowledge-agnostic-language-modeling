@@ -1,100 +1,100 @@
-Canada
-Japan
-Norway
-England
-Scotland
-Wales
-Northern Ireland
-Republic of Ireland
-Hungary
 United States of America
-Belgium
-Finland
-Sweden
-Denmark
-Poland
-Lithuania
-Italy
-Switzerland
-Austria
-Greece
-Turkey
-Portugal
-Netherlands
-Uruguay
-Egypt
-Mexico
-Kenya
-Ethiopia
-Ghana
-France
-United Kingdom
-People's Republic of China
-Brazil
 Russia
-Belarus
-Iceland
-Estonia
-Latvia
-Czech Republic
-Slovakia
-Slovenia
-Romania
-Bulgaria
-Albania
-Croatia
-Azerbaijan
-Andorra
-Cyprus
-Kazakhstan
-Malta
-Montenegro
-Cuba
-Indonesia
-South Africa
-Algeria
-Uzbekistan
-Chile
-Singapore
-Liechtenstein
-Bahrain
-Armenia
-Australia
-Argentina
-Peru
-North Korea
-Cambodia
-East Timor
-Chad
-New Zealand
+Japan
+Italy
+Mexico
+Finland
+Turkey
+France
 India
-Tuvalu
-Samoa
-Solomon Islands
-Vanuatu
-Papua New Guinea
-Palau
-Nauru
-Federated States of Micronesia
-Marshall Islands
-Kiribati
-Mongolia
-Fiji
-Venezuela
-Paraguay
-Guyana
-Ecuador
+People's Republic of China
+Norway
+Canada
+Poland
+Brazil
+United Kingdom
+Chile
+Switzerland
+Egypt
+Australia
+Greece
+Iran
+Austria
+Israel
+Denmark
+Argentina
+Belgium
 Colombia
+Sweden
+Netherlands
+Azerbaijan
+Vietnam
+Belarus
+Bulgaria
+Portugal
+South Africa
+Estonia
+Indonesia
+Afghanistan
+Iceland
+Czech Republic
+Hungary
+Albania
+Lithuania
+Croatia
+Armenia
+Romania
+Pakistan
+Algeria
+South Korea
+Slovakia
+Iraq
+Kazakhstan
+Saudi Arabia
+New Zealand
+Venezuela
+Thailand
+Bangladesh
+Cuba
+Slovenia
+Ethiopia
+Latvia
+Libya
+Andorra
+Malaysia
+Syria
+Nigeria
+Kenya
+Peru
+Philippines
+Cyprus
+Singapore
+Malta
+North Korea
+Lebanon
+Morocco
+Sudan
+Nepal
+Democratic Republic of the Congo
+England
+Montenegro
+Cambodia
+Angola
+Mongolia
+Liechtenstein
+Somalia
+Republic of Ireland
+Ghana
+Uruguay
+Zimbabwe
+Tunisia
+Ecuador
+Myanmar
+Paraguay
 Bolivia
-Trinidad and Tobago
-Saint Vincent and the Grenadines
-Saint Lucia
-Saint Kitts and Nevis
-Jamaica
-Grenada
-Guatemala
-The Bahamas
-Antigua and Barbuda
-Honduras
-Dominica
-Dominican Republic
+Tanzania
+Madagascar
+Kyrgyzstan
+Namibia
+Chad
+Yemen

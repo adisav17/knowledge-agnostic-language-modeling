@@ -1,100 +1,100 @@
-University of Tokyo
-ETH Zurich
-Michigan Technological University
-Moscow State University
-University of Massachusetts Amherst
-University of Massachusetts Boston
-The Chinese University of Hong Kong
-Tongji University
-Tsinghua University
-Beijing Institute of Technology
-Harbin Engineering University
-Nanjing University of Aeronautics and Astronautics
-Kharkiv Petro Vasylenko National Technical University of Agriculture
-Kharkiv State University of Food Technology and Trade
-Khmelnytskyi National University
-Kharkiv Medical Academy of Post-graduate Education
-University of Saint Joseph
-Kharkiv College of Textile and Design
-University of Salzburg
-Saint Petersburg State University
-Vanderbilt University
-IAIN Ambon
-Universidad Autónoma de Nuevo León
-Jaume I University
-Universidad Mayor
-Kansas State University
-Far East State Humanitarian University
-National University, Costa Rica
-Charter Oak State College
-Namangan State University
-Northeastern University
-Nahrain University
-Kim Il-sung University
-Pyongyang University of Foreign Studies
-Kim Il-sung Military University
-Korea University
-Kim Chaek University of Technology
-Hanyang University
-Pohang University of Science and Technology
-Ewha Womans University
 Stanford University
-Catholic University of Korea
-Chung-Ang University
-University of Kurdistan
-Xavier University – Ateneo de Cagayan
-National Formosa University
-Lviv University of Trade and Economics
-Lesya Ukrainka Volyn National University
-King Edward Medical University
-University of Limpopo
-Sirte University
-Misrata University
-Indian Institute of Management Lucknow
-Kenyatta University
-Muhammadiyah University of Malang
-Allen University
-University of Maryland Eastern Shore
+Moscow State University
 Massachusetts Institute of Technology
-Boston University
+State University of Minas Gerais
+Pontifícia Universidade Católica de Minas Gerais
+Hebrew University of Jerusalem
+Al-Azhar University
+University of Vienna
+California Institute of Technology
 University of Pennsylvania
-Boston College
-Brandeis University
-Tufts University
-Wesleyan University
-Smith College
-Wellesley College
-Rensselaer Polytechnic Institute
+University of London
+University of California, Los Angeles
+University of Tokyo
+Johns Hopkins University
+Leiden University
+Duke University
+Uppsala University
+ETH Zurich
+Saint Petersburg State University
+Kyoto University
+Juraj Dobrila University of Pula
+Baku State University
+Boston University
+Jagiellonian University
+Nalanda Mahavihara
+Central European University
+University of Virginia
+Tsinghua University
+University of Manchester
+Lund University
+University of Tartu
+University of Zurich
+University of Warsaw
+University of Amsterdam
+University of St Andrews
+University of Padua
+Northwestern University
+University of al-Qarawiyyin
+Cairo University
+Karolinska Institutet
+National Autonomous University of Mexico
+Stockholm University
+University of Groningen
+Utrecht University
+Fudan University
+Waseda University
+University of Basel
+Kazan Federal University
+Katholieke Universiteit Leuven
+University of Iceland
+University of Graz
+Vilnius University
+University of Latvia
+University of Delhi
+Kim Il-sung University
+Moscow Conservatory
+University of Bucharest
+University of Tehran
+University of California, Santa Barbara
+The Rockefeller University
+Tel Aviv University
+Moscow State Institute of International Relations
+Osaka University
+National and Kapodistrian University of Athens
+Zhejiang University
+Syracuse University
+Museu Nacional
+University of Mumbai
+University of Queensland
+University of Turin
+Yerevan State University
+Ghent University
+Nagoya University
+Vanderbilt University
 Texas A&M University
-Shanghai Maritime University
-Pusan National University
-Yeungnam University
-Akita Prefectural University
-H.S. Skovoroda Kharkiv National Pedagogical University
-Kharkiv National Automobile and Highway University
-Petro Mohyla Black Sea National University
-Kherson National Technical University
-National Research Nuclear University
-Lithuanian University of Educational Sciences
-Thunchath Ezhuthachan Malayalam University
-Baku Academy of Music
-Faculté polytechnique de Mons
+University of California, Davis
 Virginia Tech
-Duquesne University
-Nation University
-New York University Tandon School of Engineering
-National University of East Timor
-Vasyl' Stus Donetsk National University
-Qingdao University
-University of Hassan II Casablanca
-Odesa University
-Igor Sikorsky Kyiv Polytechnic Institute
-Bukovinian State Medical University
-St. Bonaventure University
-National Metallurgical Academy of Ukraine
-University of Alaska Southeast
-K. D. Ushynsky South Ukrainian National Pedagogical University
-I. Ya. Horbachevsky Ternopil National Medical University of Ministry of Health Care of Ukraine
-Universiti Tenaga Nasional
-Allameh Tabataba'i University
-Andrews University
+University of Wrocław
+Delft University of Technology
+Washington University in St. Louis
+University of Florence
+Umeå University
+Shanghai Jiao Tong University
+University of the Witwatersrand
+University of Hawaiʻi
+University of Western Australia
+Arizona State University
+Paris Dauphine University
+Peoples' Friendship University of Russia
+Maastricht University
+Université libre de Bruxelles
+Korea University
+University of Gothenburg
+University of Rochester
+Nanyang Technological University
+University of Leicester
+University of Malta
+University of Turku
+Swiss Federal Institute of Technology in Lausanne
+Technion – Israel Institute of Technology

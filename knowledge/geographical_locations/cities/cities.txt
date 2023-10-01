@@ -1,100 +1,100 @@
-New York City
-San Francisco
-Los Angeles
-Bern
 London
-Cairo
-Alexandria
-Alexandria
-Toronto
-São Paulo
-Nuuk
-Tashkent
-Warsaw
-Modena
 Singapore
-Cambridge
-Skopje
-Gdynia
-Szczecin
-Szczebrzeszyn
-Ljubljana
-Vrhnika
-Wąchock
-Milan
-Trieste
-Łódź
-Oslo
-Katowice
-Rzeszów
-Dubai
-Padua
-Ludwigsburg
-Bergamo
-Venice
-Sharm el-Sheikh
-Amsterdam
-Groningen
-Białystok
-Assen
-Nowy Sącz
+New York City
+Madrid
+Edirne
 Beijing
-Tbilisi
-Appingedam
-Maribor
-Celje
-Koper
-Nova Gorica
-Kranj
-Ahmedabad
-Salerno
-Jamnagar
-Mumbai
+Hong Kong
 Jerusalem
-Wageningen
-Como
-Maastricht
-Arnhem
-Chennai
-Dhaka
-Bangalore
-Islamabad
-Gibraltar
-Genoa
-Buenos Aires
-Mexico City
-Barcelona
-Nagpur
-Abidjan
-Abu Dhabi
-Athens
-Caracas
-Pune
-Guatemala City
-Osijek
-Schwerin
-Hanover
-Dubrovnik
-Munich
-Erfurt
-Dresden
-Magdeburg
-Innsbruck
-Bregenz
-Stockholm
 Helsinki
-Reykjavík
-Bratislava
-Kochi
-Luxembourg
-San Marino
-Phnom Penh
+Warsaw
+Stockholm
+Buenos Aires
+Los Angeles
+Athens
+Amsterdam
 Ho Chi Minh City
-Hanoi
+Sydney
+Cairo
+São Paulo
+Mexico City
 Bangkok
-Wolin
-Andorra la Vella
+Barcelona
+Seoul
+Jakarta
+Oslo
+Damascus
+Munich
+Belgrade
+San Francisco
+Tbilisi
+Milan
+Bratislava
+Mumbai
+Venice
+Tirana
+Brasília
+Toronto
+Dhaka
+Gibraltar
+Lima
+Reykjavík
+Kabul
+Florence
+Caracas
+Sarajevo
+Naples
 Kuala Lumpur
+Dubai
+Canberra
+Bern
+Melbourne
+Kinshasa
+Algiers
+Hanoi
+Łobez
+Ljubljana
+Chișinău
+Skopje
+Accra
+Kathmandu
+Andorra la Vella
+Roubaix
+Pyongyang
+Amman
+Tashkent
 Taipei
-Bologna
-Catania
+Rabat
+Islamabad
+Podgorica
+Abuja
+Ulaanbaatar
+Tripoli
+Edinburgh
+Dresden
+Tel Aviv
+Abu Dhabi
+Phnom Penh
+Luanda
+Ashgabat
+Johannesburg
+The Hague
+Bamako
+Manchester
+Liverpool
+Genoa
+Lagos
+Kampala
+Khartoum
+Asunción
+Hanover
+Windhoek
+Dushanbe
+Palermo
+Brazzaville
+Alexandria
+Guadalajara
+Glasgow
+Leipzig
+Harare
+Rotterdam
