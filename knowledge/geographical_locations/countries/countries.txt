@@ -1,100 +1,100 @@
-Haiti
-El Salvador
-Iran
-Iraq
-Costa Rica
-Israel
-Yemen
-Jordan
-Nicaragua
-Kyrgyzstan
-Laos
-Lebanon
-Maldives
-Malaysia
-Myanmar
-Nepal
-Oman
-Pakistan
-Qatar
-Saudi Arabia
-Sri Lanka
-Syria
-Tajikistan
-Taiwan
-Thailand
-Turkmenistan
-United Arab Emirates
-Vietnam
-South Korea
-Afghanistan
-Bangladesh
-Mali
-Angola
-Bhutan
-Brunei
-Tanzania
-Philippines
-Central African Republic
-Togo
-Tunisia
-Zambia
-Zimbabwe
-South Sudan
-Benin
-Botswana
-Burkina Faso
-Burundi
-Comoros
-Republic of the Congo
-Democratic Republic of the Congo
-Djibouti
-Eritrea
-Gabon
-The Gambia
-Guinea
-Guinea-Bissau
-Ivory Coast
-Cameroon
-Cape Verde
-Lesotho
-Liberia
-Libya
-Madagascar
-Malawi
-Mauritania
-Morocco
-Mozambique
-Namibia
-Niger
-Nigeria
-Uganda
-Rwanda
-São Tomé and Príncipe
-Senegal
-Seychelles
-Sierra Leone
-Somalia
-Sudan
-Kosovo
-Galicia
-Catalonia
-Northern Mariana Islands
-Kingdom of Iberia
-Aruba
-Sint Maarten
-Cook Islands
-Kingdom of the Netherlands
-Niue
-Tarshish
-Hatay State
-Zirid Dynasty
-Republic of Artsakh
-Kingdom of Denmark
-Transnistria
-French protectorate in Morocco
-United States of the Ionian Islands
-British North Borneo
-Principality of Chernigov
-Garðaríki
-Alashiya
+Canada
+Japan
+Norway
+England
+Scotland
+Wales
+Northern Ireland
+Republic of Ireland
+Hungary
+United States of America
+Belgium
+Finland
+Sweden
+Denmark
+Poland
+Lithuania
+Italy
+Switzerland
+Austria
+Greece
+Turkey
+Portugal
+Netherlands
+Uruguay
+Egypt
+Mexico
+Kenya
+Ethiopia
+Ghana
+France
+United Kingdom
+People's Republic of China
+Brazil
+Russia
+Belarus
+Iceland
+Estonia
+Latvia
+Czech Republic
+Slovakia
+Slovenia
+Romania
+Bulgaria
+Albania
+Croatia
+Azerbaijan
+Andorra
+Cyprus
+Kazakhstan
+Malta
+Montenegro
+Cuba
+Indonesia
+South Africa
+Algeria
+Uzbekistan
+Chile
+Singapore
+Liechtenstein
+Bahrain
+Armenia
+Australia
+Argentina
+Peru
+North Korea
+Cambodia
+East Timor
+Chad
+New Zealand
+India
+Tuvalu
+Samoa
+Solomon Islands
+Vanuatu
+Papua New Guinea
+Palau
+Nauru
+Federated States of Micronesia
+Marshall Islands
+Kiribati
+Mongolia
+Fiji
+Venezuela
+Paraguay
+Guyana
+Ecuador
+Colombia
+Bolivia
+Trinidad and Tobago
+Saint Vincent and the Grenadines
+Saint Lucia
+Saint Kitts and Nevis
+Jamaica
+Grenada
+Guatemala
+The Bahamas
+Antigua and Barbuda
+Honduras
+Dominica
+Dominican Republic
