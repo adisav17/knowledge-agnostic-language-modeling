@@ -1,6 +1,6 @@
-import entity, relationship
-from relationship import Relationship
-from entity import Entity
+from . import entity, relationship
+from .entity import Entity
+from .relationship import Relationship
 
 class Ontology:
     def __init__(self):
