@@ -2,6 +2,8 @@ import os
 import os
 import json
 
+## given a populated ontology, populate the folder structure in the designated path 
+
 class DataExport:
     def __init__(self, folder_path, metadata_file):
         self.folder_path = folder_path
@@ -52,5 +54,5 @@ class DataExport:
 
     def update_folder_structure(self, ontology):
         # Removes existing folder structure and recreates it based on the updated ontology
-        # This could be optimized to only update the changed parts 
+        # This could be optimized to only update the changed parts
         pass

@@ -3,6 +3,8 @@ import json
 import os
 from knowledge_base_module.entity import Entity
 
+## for a given folder structure and metadata, populate the ontology
+
 class DataImport:
     def __init__(self, folder_path, metadata_file):
         self.folder_path = folder_path

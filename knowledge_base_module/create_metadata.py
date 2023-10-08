@@ -2,7 +2,7 @@ import json
 
 ## to be expanded
 ## replicative of folder structure
-## write code to adjust metadata dynamically given a file path
+## write code to adjust metadata dynamically given a folder path
 
 metadata = {
     "relationshipType": "is_subtype",
