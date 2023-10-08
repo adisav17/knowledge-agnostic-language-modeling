@@ -1,0 +1,15 @@
+{
+    "relationshipType": "is_subtype",
+    "entities": {
+        "Professional": {
+            "Journalist": {},
+            "Engineer": {}
+        },
+        "Place": {
+            "Country": {
+                "India": {},
+                "USA": {}
+            }
+        }
+    }
+}

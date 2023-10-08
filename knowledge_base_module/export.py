@@ -1,10 +1,42 @@
 import os
-
+import os
+import json
 
 class DataExport:
     def __init__(self, folder_path, metadata_file):
         self.folder_path = folder_path
         self.metadata_file = metadata_file
+
+    def export_entities(self, ontology):
+        for entity_name, entity in ontology.entities.items():
+            entity_path = os.path.join(self.folder_path, entity_name)
+            os.makedirs(entity_path, exist_ok=True)
+
+            if 'has_instance' in entity.relationships:
+                with open(os.path.join(entity_path, 'instances.txt'), 'w') as file:
+                    for instance in entity.relationships['has_instance']:
+                        file.write(instance + '\n')
+
+            if 'has_subtype' in entity.relationships:
+                for subtype in entity.relationships['has_subtype']:
+                    subtype_entity = ontology.entities.get(subtype)
+                    if subtype_entity:
+                        self._export_subtypes(entity_path, subtype_entity, ontology)
+
+    def _export_subtypes(self, parent_path, entity, ontology):
+        entity_path = os.path.join(parent_path, entity.name)
+        os.makedirs(entity_path, exist_ok=True)
+
+        if 'has_instance' in entity.relationships:
+            with open(os.path.join(entity_path, 'instances.txt'), 'w') as file:
+                for instance in entity.relationships['has_instance']:
+                    file.write(instance + '\n')
+
+        if 'has_subtype' in entity.relationships:
+            for subtype in entity.relationships['has_subtype']:
+                subtype_entity = ontology.entities.get(subtype)
+                if subtype_entity:
+                    self._export_subtypes(entity_path, subtype_entity, ontology)
 
     def export_entities(self, ontology):
         # logic to export entities from ontology to terminal folders
@@ -20,22 +52,5 @@ class DataExport:
 
     def update_folder_structure(self, ontology):
         # Removes existing folder structure and recreates it based on the updated ontology
-        # This could be optimized to only update the changed parts in a more complex implementation
+        # This could be optimized to only update the changed parts 
         pass
-
-        self._remove_existing_structure(self.folder_path)
-        self.create_structure()
-
-        self.export_entities(ontology)
-        self.export_relationships(ontology)
-
-    def _remove_existing_structure(self, path):
-        # Logic to remove existing folder structure
-        # Be very careful with this, ensure it doesn’t unintentionally delete important data
-        pass
-
-        for root, dirs, files in os.walk(path, topdown=False):
-            for file in files:
-                os.remove(os.path.join(root, file))
-            for dir in dirs:
-                os.rmdir(os.path.join(root, dir))

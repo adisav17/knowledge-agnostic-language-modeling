@@ -1,20 +1,16 @@
-import entity, relationship
-from relationship import Relationship
-from entity import Entity
-
 class Ontology:
     def __init__(self):
         self.entities = {}
 
     def add_entity(self, entity):
-        if entity.is_common_noun:
-            self.entities[entity.name] = entity
-        else:
-            print(f"Entity {entity.name} is not a common noun entity and can't be added to ontology.")
+        #if entity.is_common_noun:
+        self.entities[entity.name] = entity
+        #else:
+        #    print(f"Entity {entity.name} is not a common noun entity and can't be added to ontology.")
 
     def add_relationship(self, relation_type, entity1, entity2):
         #if entity1.is_common_noun and entity2.is_common_noun:
-            Relationship(relation_type, entity1, entity2)
+        Relationship(relation_type, entity1, entity2)
         #else:
         #    print(f"One or both entities are not common noun entities.")
 
@@ -36,12 +32,12 @@ class Ontology:
                 if related_entity:  # If the entity exists
                     self.get_hierarchy_list(related_entity, relation_type, hierarchy, visited)
 
-        return hierarchy 
+        return hierarchy
 
-    
+
 
     def get_hierarchy_tree(self, entity, relation_type, visited=None):
-        
+
         hierarchy = []
         if visited is None:
             visited = set()
@@ -61,8 +57,8 @@ class Ontology:
                        hierarchy.append(branch)
 
 
-        return hierarchy    
-    
+        return hierarchy
+
 
 
     def search_entities(self, criteria):
@@ -102,15 +98,9 @@ class Ontology:
         hierarchy_tree = self.get_hierarchy_tree(entity, relation_type)
         self._print_tree(hierarchy_tree, indent)
 
-    def _print_tree(self, tree, indent): 
+    def _print_tree(self, tree, indent):
         for item in tree:
             if isinstance(item, list):
                 self._print_tree(item, indent + 2)
             else:
                 print(' ' * indent + '- ' + item)
-
-
-
-
-
-    
