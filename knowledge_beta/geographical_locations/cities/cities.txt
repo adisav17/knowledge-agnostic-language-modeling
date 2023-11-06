@@ -1,0 +1,100 @@
+London
+Singapore
+New York City
+Madrid
+Edirne
+Beijing
+Hong Kong
+Jerusalem
+Helsinki
+Warsaw
+Stockholm
+Buenos Aires
+Los Angeles
+Athens
+Amsterdam
+Ho Chi Minh City
+Sydney
+Cairo
+São Paulo
+Mexico City
+Bangkok
+Barcelona
+Seoul
+Jakarta
+Oslo
+Damascus
+Munich
+Belgrade
+San Francisco
+Tbilisi
+Milan
+Bratislava
+Mumbai
+Venice
+Tirana
+Brasília
+Toronto
+Dhaka
+Gibraltar
+Lima
+Reykjavík
+Kabul
+Florence
+Caracas
+Sarajevo
+Naples
+Kuala Lumpur
+Dubai
+Canberra
+Bern
+Melbourne
+Kinshasa
+Algiers
+Hanoi
+Łobez
+Ljubljana
+Chișinău
+Skopje
+Accra
+Kathmandu
+Andorra la Vella
+Roubaix
+Pyongyang
+Amman
+Tashkent
+Taipei
+Rabat
+Islamabad
+Podgorica
+Abuja
+Ulaanbaatar
+Tripoli
+Edinburgh
+Dresden
+Tel Aviv
+Abu Dhabi
+Phnom Penh
+Luanda
+Ashgabat
+Johannesburg
+The Hague
+Bamako
+Manchester
+Liverpool
+Genoa
+Lagos
+Kampala
+Khartoum
+Asunción
+Hanover
+Windhoek
+Dushanbe
+Palermo
+Brazzaville
+Alexandria
+Guadalajara
+Glasgow
+Leipzig
+Harare
+Rotterdam
